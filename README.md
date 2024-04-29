@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1660160045/60560/leo-toast.gif?1660160045" width="30" alt="Leo Toast"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! <br> I'm Vadim, Java Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13" alt="Russia"/> <b>Moscow, Russia</b></p>
+<p>Welcome to my page! <br> I'm Vadim from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13" alt="Russia"/> <b>Moscow, Russia</b></p>
 <h3>Things I code with</h3>
 <p>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
